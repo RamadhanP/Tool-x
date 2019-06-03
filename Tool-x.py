@@ -99,12 +99,12 @@ HACKERPROlogo = """\033[0m
  | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
  |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
       
-          Hacked tools author Muhammad Fazriansyah
+          Hacked tools Muhammad Fazriansyah
 
 \033[91m"""
 def menu():
     print (HACKERPROlogo + """\033[1m
- [!] This Tool Must Run As ROOT [!] https://github.com/technicaldada/hackerpro
+ [!] This Tool Must Run As ROOT [!] https://github.com/ajirmdhn/Tool-x.git
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
